@@ -2,8 +2,7 @@
  <img width="100px" src="https://cdn-icons-png.flaticon.com/512/188/188942.png" align="center"/>
 <h2 align="center"> Projeto Pokédex</h2>
 <p align="center"> Meu primeiro projeto feito no evento MapaDev Week, desenvolvido pelo @devemdobro.🌱 <br>
-A ideia era criar uma Pokédex e nela poder selecionar e ver as informações de cada Pokémon. </p> <br>
-<img align="center" src="https://i.imgur.com/JikeMBP.png" width="100%"> 
+A ideia era criar uma apresentação de yugioh. </p> <br>
 
 <h2 align="center"> Tecnologias utilizadas 💻</h2>
 <div align="center" style="display: inline_block">
